@@ -8,5 +8,5 @@ I'm Chris (he/him) and I am currently in my 3rd year studying Artifical Intellig
 - :mailbox_with_mail: DM me on any of my socials to ask questions! [ [Twitter](https://twitter.com/cpudev) • [Instagram](https://instagram.com/cpudev) • Discord: cpu#8729 ]
 
 <p align="center">
-  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/f1055231234507.564a1d234bfb6.gif">
+  <img src="https://i.imgur.com/GLdqYB2.gif">
 </p>
