@@ -4,4 +4,5 @@ I'm Chris (he/him) and I am currently in my 3rd year studying Artifical Intellig
 
 
 - :pushpin: I'm currently working on 2 pieces of coursework and a group project - [DeliverED Home](https://github.com/DeliverED-Home)
-- :mag: Take a look through my repos to view past coursework completed at uni. Some must be kept private in respect to the course's policies.
+- :mag: Take a look through my repos to view past coursework completed at uni. Some must be kept private in respect to the courses' policies.
+- :mailbox_with_mail: DM me on any of my socials to ask questions! ( [Twitter](https://twitter.com/cpudev) • [Instagram](https://instagram.com/cpudev) • Discord: cpu#8729)
