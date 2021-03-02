@@ -1,4 +1,4 @@
-### Hello world! 👋
+### Hey 👋
 
 I'm Chris (he/him) and I am currently in my 3rd year studying Artifical Intelligence and Computer Science at The University of Edinburgh. I enjoy website development, as well as UI/UX design. I've been a competitive swimmer for over a decade and swim with the uni.
 
