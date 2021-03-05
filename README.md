@@ -9,15 +9,17 @@ I'm Chris (he/him) and I am currently in my 3rd year studying Artifical Intellig
 <br />
 
 <p align='center'>
+  <img src="https://badges.pufler.dev/contributors/cpuved/cpuved?size=56&padding=5&bots=true"/>
+</p>
+
+<br />
+
+<p align='center'>
   <img src="https://badges.pufler.dev/years/cpuved/"/>
   <span>⠀⠀⠀</span>
   <img src="https://badges.pufler.dev/commits/monthly/cpuved"/>
   <span>⠀⠀⠀</span>
   <img src="https://badges.pufler.dev/visits/cpuved/cpuved"/> 
-</p>
-
-<p align='center'>
-  <img src="https://badges.pufler.dev/contributors/cpuved/cpuved?size=56&padding=5&bots=true"/>
 </p>
 
 <p align="center">
