@@ -8,18 +8,18 @@ I'm Chris (he/him) and I am currently in my 3rd year studying Artifical Intellig
 
 <br />
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=cpuved&count_private=true&show_icons=true&bg_color=161b22&hide_border=true&title_color=fff&icon_color=fff&text_color=8b949e&custom_title=Stats for Nerds">
+</p>
+
+<br />
+
 <p align='center'>
   <img src="https://badges.pufler.dev/years/cpuved/"/>
   <span>⠀⠀⠀</span>
   <img src="https://badges.pufler.dev/commits/monthly/cpuved"/>
   <span>⠀⠀⠀</span>
   <img src="https://badges.pufler.dev/visits/cpuved/cpuved"/> 
-</p>
-
-<br />
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cpuved&count_private=true&show_icons=true&bg_color=161b22&hide_border=true&title_color=fff&icon_color=fff&text_color=8b949e&custom_title=Stats for Nerds">
 </p>
 
 <br />
