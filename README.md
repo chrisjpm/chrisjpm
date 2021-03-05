@@ -16,6 +16,14 @@ I'm Chris (he/him) and I am currently in my 3rd year studying Artifical Intellig
   <img src="https://badges.pufler.dev/visits/cpuved/cpuved"/> 
 </p>
 
+<br />
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=cpuved&count_private=true&show_icons=true&bg_color=06090f&hide_border=true&title_color=fff&icon_color=fff&text_color=8b949e&custom_title=Stats for Nerds">
+</p>
+
+<br />
+
 <p align="center">
   <img height="100" wdith="100" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/35771931234507.564a1d2403b3a.gif">
 </p>
