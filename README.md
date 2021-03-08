@@ -5,6 +5,7 @@ I'm Chris (he/him) and I am currently in my 3rd year studying Artifical Intellig
 - :pushpin: I'm currently working on 2 pieces of coursework and a group project - [DeliverED Home](https://github.com/DeliverED-Home)
 - :mag: Take a look through my repos to view projects and coursework completed at uni. Some must be kept private in respect to the courses' policies.
 - :mailbox_with_mail: DM me on any of my socials to ask questions! [ Discord: cpu#8729 • [Twitter](https://twitter.com/chris_jpm) • [Instagram](https://instagram.com/cpudev) • [Email](mailto:chrispercevalmaxwell@gmail.com) • [LinkedIn](https://linkedin.com/in/chris-jpm) ]
+- :floppy_disk: Download my CV <a href="https://github.com/cpuved/CV/raw/main/CV_CPM.pdf">here</a>!
 
 <br />
 
@@ -27,3 +28,4 @@ I'm Chris (he/him) and I am currently in my 3rd year studying Artifical Intellig
 <p align="center">
   <img height="100" wdith="100" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/35771931234507.564a1d2403b3a.gif">
 </p>
+
