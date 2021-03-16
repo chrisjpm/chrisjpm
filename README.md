@@ -5,7 +5,7 @@ I'm Chris (he/him) and I am currently in my 3rd year studying Artifical Intellig
 - :pushpin: I'm currently working on 2 pieces of coursework (pvt. until permitted to be public) and a group project ([DeliverED Home](https://github.com/DeliverED-Home))
 - :mag: Take a look through my repos to view projects and coursework completed at uni
   - View my most recent: [Informatics Large Practical (CW2)](https://github.com/cpuved/inf3-ilp-cw2), achieving 96% (a surprise, to be sure, but a welcome one)
-- :mailbox_with_mail: DM me on any of my socials to ask questions! [ Discord: cpu#8729 • [Twitter](https://twitter.com/chris_jpm) • [Instagram](https://instagram.com/cpudev) • [Email](mailto:chrispercevalmaxwell@gmail.com) • [LinkedIn](https://linkedin.com/in/chris-jpm) ]
+- :mailbox_with_mail: DM me on any of my socials to ask questions! Discord: cpu#8729 • [Twitter](https://twitter.com/chris_jpm) • [Instagram](https://instagram.com/cpudev) • [Email](mailto:chrispercevalmaxwell@gmail.com) • [LinkedIn](https://linkedin.com/in/chris-jpm)
 - :floppy_disk: Download my CV <a href="https://github.com/cpuved/CV/raw/main/CV_CPM.pdf">here</a>!
 
 <br />
