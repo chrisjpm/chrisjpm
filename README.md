@@ -1,6 +1,6 @@
 ### Hey there 👋
 
-I'm Chris (he/him) and I am currently in my 3rd year studying Artifical Intelligence and Computer Science at The University of Edinburgh. I enjoy website development, as well as UI/UX design. I've been a competitive swimmer for over a decade and swim with the uni.
+I'm Chris (he/him) and I am currently in my 3rd year studying Artifical Intelligence and Computer Science at The University of Edinburgh. I enjoy website development, as well as UI/UX design. I've been a competitive swimmer for over a decade and swim here at uni.
 
 - :pushpin: I'm currently working on 2 pieces of coursework. Highlighted work I've completed at uni (permitted to be public):
   - [Informatics Large Practical (CW2)](https://github.com/cpuved/inf3-ilp-cw2) (96%)
