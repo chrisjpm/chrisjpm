@@ -2,9 +2,9 @@
 
 I'm Chris (he/him) and I am currently in my 3rd year studying Artifical Intelligence and Computer Science at The University of Edinburgh. I enjoy website development, as well as UI/UX design. I've been a competitive swimmer for over a decade and swim with the uni.
 
-- :pushpin: I'm currently working on 2 pieces of coursework (pvt. until permitted to be public) and a group project ([DeliverED Home](https://github.com/DeliverED-Home))
-- :mag: Take a look through my repos to view projects and coursework completed at uni
-  - View my most recent: [Informatics Large Practical (CW2)](https://github.com/cpuved/inf3-ilp-cw2), achieving 96%.
+- :pushpin: I'm currently working on 2 pieces of coursework. Highlighted work I've completed at uni (permitted to be public):
+  - [Informatics Large Practical (CW2)](https://github.com/cpuved/inf3-ilp-cw2) (96%)
+  - [System Design Project - DeliverED Home](https://github.com/DeliverED-Home) | [Our website](https://group19.sdp.inf.ed.ac.uk) I designed
 - :mailbox_with_mail: DM me on any of my socials to ask questions! Discord: cpu#8729 • [Twitter](https://twitter.com/chris_jpm) • [Instagram](https://instagram.com/cpudev) • [Email](mailto:chrispercevalmaxwell@gmail.com) • [LinkedIn](https://linkedin.com/in/chris-jpm)
 - :floppy_disk: Download my CV <a href="https://github.com/cpuved/CV/raw/main/CV_CPM.pdf">here</a>!
 
