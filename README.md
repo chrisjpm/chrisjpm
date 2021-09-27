@@ -1,6 +1,6 @@
 ### Hey there 👋
 
-I'm Chris (he/him) and in my 4th, and final, year studying Artifical Intelligence and Computer Science at Edinburgh University. I'm also the Swimming & Water Polo Club committee as their Sponsorship & Fundraising Officer.
+I'm Chris (he/him) and in my 4th, and final, year studying Artifical Intelligence and Computer Science at Edinburgh University. I'm also on the Swimming & Water Polo Club committee as their Sponsorship & Fundraising Officer.
 
 - 📌 Currently working on my undergraduate Honours Project: Nicer Proofs by Induction in the [Holbert Proof Assistant](https://github.com/liamoc/holbert) ([Demo](http://liamoc.net/holbert/)), alongside many other courses.
 - :mailbox_with_mail: DM me on any of my socials to ask questions :- **Discord: cpu#8729 • [Twitter](https://twitter.com/chris_jpm) • [Instagram](https://instagram.com/chris_jpm) • [Email](mailto:chrispercevalmaxwell@gmail.com) • [LinkedIn](https://linkedin.com/in/chris-jpm)**
