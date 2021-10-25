@@ -22,6 +22,13 @@ I'm Chris and I'm in my 4th, and final, year studying Artifical Intelligence and
   <img src="https://badges.pufler.dev/visits/cpuved/cpuved"/> 
 </p>
  -->
+
+<br />
+
+<p align="center">
+  <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=chrisjpm">
+</p>
+
 <br />
 
 <p align="center">
