@@ -26,7 +26,7 @@ I'm Chris and I'm in my 4th, and final, year studying Artifical Intelligence and
 <br />
 
 <p align="center">
-  <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=chrisjpm">
+  <img height="200" src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=chrisjpm">
 </p>
 
 <br />
