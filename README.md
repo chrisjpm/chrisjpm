@@ -2,7 +2,7 @@
 
 I'm Chris (he/him) and I'm in my final year studying Artifical Intelligence and Computer Science at Edinburgh University. I'm also on the Swimming & Water Polo Club committee as their Sponsorship & Fundraising Officer.
 
-Currently working on my undergraduate Honours Project: Nicer Proofs by Induction in the [Holbert Proof Assistant](https://github.com/chrisjpm/holbert) ([Demo](http://liamoc.net/holbert/)), alongside many other courses.
+Contributor to the **[Holbert Proof Assistant](https://github.com/liamoc/holbert)** ([Demo](http://liamoc.net/holbert/)) - responsible for the implementation of applying rules by elimination, proofs by induction and proofs by cases.
 
 💬 **Discord: cpu#8729 • [Twitter](https://twitter.com/chris_jpm) • [Instagram](https://instagram.com/chris_jpm) • [Email](mailto:chrispercevalmaxwell@gmail.com) • [LinkedIn](https://linkedin.com/in/chris-jpm)**
 
