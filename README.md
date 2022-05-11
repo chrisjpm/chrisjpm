@@ -1,6 +1,6 @@
 ### Hey there 👋
 
-I'm Chris (he/him) and I'm in my final year studying Artifical Intelligence and Computer Science at Edinburgh University. I'm also on the Swimming & Water Polo Club committee as their Sponsorship & Fundraising Officer.
+I'm Chris (he/him) and I'm in my final year studying Artifical Intelligence and Computer Science at Edinburgh University. I'm also on the Swimming & Water Polo Club committee as their Sponsorship & Fundraising Officer. Incoming Application Developer for NHS Lothian.
 
 Contributor to the **[Holbert Proof Assistant](https://github.com/liamoc/holbert)** ([Demo](http://liamoc.net/holbert/)) - responsible for the implementation of applying rules by elimination, proofs by induction and proofs by cases.
 
