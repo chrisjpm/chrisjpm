@@ -1,12 +1,12 @@
 ### Hey there 👋
 
-I'm Chris (he/him) and I'm in my final year studying Artifical Intelligence and Computer Science at Edinburgh University. I'm also on the Swimming & Water Polo Club committee as their Sponsorship & Fundraising Officer. Incoming Application Developer for NHS Lothian.
+I'm Chris (he/him) and I've recently graduated from Edinburgh Uni with a First Class BSc in Artifical Intelligence and Computer Science. I will be begining my role as an Application Developer for NHS Lothian in August.
 
 Contributor to the **[Holbert Proof Assistant](https://github.com/liamoc/holbert)** ([Demo](http://liamoc.net/holbert/)) - responsible for the implementation of applying rules by elimination, proofs by induction and proofs by cases.
 
 💬 **Discord: cpu#8729 • [Twitter](https://twitter.com/chris_jpm) • [Instagram](https://instagram.com/chris_jpm) • [Email](mailto:chrispercevalmaxwell@gmail.com) • [LinkedIn](https://linkedin.com/in/chris-jpm)**
 
-:floppy_disk: **Download my CV <a href="https://tinyurl.com/ChrisPMCV">here</a>!**
+<!-- :floppy_disk: **Download my CV <a href="https://tinyurl.com/ChrisPMCV">here</a>!** -->
 <!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=cpuved&count_private=true&show_icons=true&bg_color=161b22&hide_border=true&title_color=fff&icon_color=fff&text_color=8b949e&custom_title=Stats for Nerds">
 </p> -->
