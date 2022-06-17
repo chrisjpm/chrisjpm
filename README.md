@@ -18,7 +18,7 @@ Contributor to the **[Holbert Proof Assistant](https://github.com/liamoc/holbert
 
 <details>
   <summary>
-  <i>Swimming Relay Order Calculator (Adv. Higher Assignment)</i>
+  <i>Swimming Relay Order Calculator (Adv. Higher CS Assignment)</i>
   </summary>
   <ul>
     <li>View my working repo <a href="https://github.com/chrisjpm/swimming-relay-order-calculator">here</a>
