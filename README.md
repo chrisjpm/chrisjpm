@@ -4,7 +4,7 @@ I'm Chris (he/him) and I've recently graduated from Edinburgh Uni with a First C
 
 Contributor to the **[Holbert Proof Assistant](https://github.com/liamoc/holbert)** ([Demo](http://liamoc.net/holbert/)) - responsible for the implementation for applying rules by elimination, proofs by induction and proofs by cases.
 
-📌 **Notable projects:**
+📌 **Notable Projects**
 <details open>
   <summary>
   <i>Mechanising Applying Rules by Eliminaion, Proofs by Induction and Proofs by Cases in the Holbert PA (Honours Project)</i>
@@ -26,7 +26,9 @@ Contributor to the **[Holbert Proof Assistant](https://github.com/liamoc/holbert
   </ul>
 </details>
 
-💬 **Contact me:** [Twitter](https://twitter.com/chris_jpm) • [Discord](https://discordapp.com/users/193460910486978560) • [Instagram](https://instagram.com/chris_jpm) • [LinkedIn](https://linkedin.com/in/chris-jpm) • [Email](mailto:chrispercevalmaxwell@gmail.com)
+💬 **Contact Me**
+
+[Twitter](https://twitter.com/chris_jpm) • [Discord](https://discordapp.com/users/193460910486978560) • [Instagram](https://instagram.com/chris_jpm) • [LinkedIn](https://linkedin.com/in/chris-jpm) • [Email](mailto:chrispercevalmaxwell@gmail.com)
 
 <!-- :floppy_disk: **Download my CV <a href="https://tinyurl.com/ChrisPMCV">here</a>!** -->
 <!-- <p align="center">
