@@ -11,7 +11,7 @@ Contributor to the **[Holbert Proof Assistant](https://github.com/liamoc/holbert
   </summary>
   <ul>
     <li>View my working repo <a href="https://github.com/chrisjpm/holbert">here</a>
-    <li>You can read the report <a href="https://github.com/chrisjpm/holbert/blob/master/report.pdf">here</a></li>
+    <li>Read the report <a href="https://github.com/chrisjpm/holbert/blob/master/report.pdf">here</a></li>
     <li>Grade awarded: 76% :tada:</li>
   </ul>
 </details>
