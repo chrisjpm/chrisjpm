@@ -2,7 +2,7 @@
 
 I'm Chris (he/him) and I've recently graduated from Edinburgh Uni with a First Class BSc (Hons) in Artificial Intelligence and Computer Science. I will be beginning my role as an Application Developer for NHS Lothian in August.
 
-Contributor to the **[Holbert Proof Assistant](https://github.com/liamoc/holbert)** ([Demo](http://liamoc.net/holbert/)) - responsible for the implementation for applying rules by elimination, proofs by induction and proofs by cases. This was my undergraduate honouors project, details below.
+Contributor to the **[Holbert Proof Assistant](https://github.com/liamoc/holbert)** ([Demo](http://liamoc.net/holbert/)) - responsible for the implementation for applying rules by elimination, proofs by induction and proofs by cases.
 
 📌 **Notable projects:**
 <details open>
