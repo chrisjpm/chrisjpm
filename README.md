@@ -4,29 +4,32 @@ I'm Chris (he/him) and I've recently graduated from Edinburgh Uni with a First C
 
 Contributor to the **[Holbert Proof Assistant](https://github.com/liamoc/holbert)** ([Demo](http://liamoc.net/holbert/)) - responsible for the implementation for applying rules by elimination, proofs by induction and proofs by cases.
 
-📌 **Notable Projects**
+#### 📌 Notable Projects
 <details open>
   <summary>
-  <i>Mechanising Applying Rules by Eliminaion, Proofs by Induction and Proofs by Cases in the Holbert PA (Honours Project)</i>
+    <i>Mechanising Applying Rules by Eliminaion, Proofs by Induction and Proofs by Cases in the Holbert PA (Honours Project)</i>
   </summary>
-  <ul>
-    <li>View my working repo <a href="https://github.com/chrisjpm/holbert">here</a>
-    <li>Read the report <a href="https://github.com/chrisjpm/holbert/blob/master/report.pdf">here</a></li>
-    <li>Grade awarded: 76% :tada:</li>
-  </ul>
+  <p>
+    &nbsp;&nbsp;&nbsp;&nbsp;• View my working repo <a href="https://github.com/chrisjpm/holbert">here</a>
+    <br>
+    &nbsp;&nbsp;&nbsp;&nbsp;• Read the report <a href="https://github.com/chrisjpm/holbert/blob/master/report.pdf">here</a></li>
+    <br>
+    &nbsp;&nbsp;&nbsp;&nbsp;• Grade awarded: 76% :tada:
+  </p>
 </details>
 
 <details>
   <summary>
-  <i>Swimming Relay Order Calculator (Adv. Higher CS Assignment)</i>
+    <i>Swimming Relay Order Calculator (Adv. Higher CS Assignment)</i>
   </summary>
-  <ul>
-    <li>View my working repo <a href="https://github.com/chrisjpm/swimming-relay-order-calculator">here</a>
-    <li>Grade awarded: 100% :tada:</li>
-  </ul>
+  <p>
+    &nbsp;&nbsp;&nbsp;&nbsp;• View my working repo <a href="https://github.com/chrisjpm/swimming-relay-order-calculator">here</a>
+    <br>
+    &nbsp;&nbsp;&nbsp;&nbsp;• Grade awarded: 100% :tada:
+  </p>
 </details>
 
-💬 **Contact Me**
+#### 💬 Contact Me
 
 [Twitter](https://twitter.com/chris_jpm) • [Discord](https://discordapp.com/users/193460910486978560) • [Instagram](https://instagram.com/chris_jpm) • [LinkedIn](https://linkedin.com/in/chris-jpm) • [Email](mailto:chrispercevalmaxwell@gmail.com)
 
@@ -47,7 +50,7 @@ Contributor to the **[Holbert Proof Assistant](https://github.com/liamoc/holbert
 <p align="center">
   <img height="320" src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=chrisjpm">
 </p> -->
-<p align="center">
+<p>
   <img height="100" wdith="100" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/35771931234507.564a1d2403b3a.gif">
 </p>
 
