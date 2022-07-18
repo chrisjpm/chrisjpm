@@ -50,7 +50,6 @@ Contributor to the **[Holbert Proof Assistant](https://github.com/liamoc/holbert
 <p align="center">
   <img height="320" src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=chrisjpm">
 </p> -->
-<p>
-  <img height="100" wdith="100" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/35771931234507.564a1d2403b3a.gif">
+<p align="center">
+  <img height="75" wdith="75" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/35771931234507.564a1d2403b3a.gif">
 </p>
-
