@@ -31,7 +31,7 @@ Contributor to the **[Holbert Proof Assistant](https://github.com/liamoc/holbert
 
 #### 💬 Contact Me
 
-[Twitter](https://twitter.com/chris_jpm) • [Discord](https://discordapp.com/users/193460910486978560) • [Instagram](https://instagram.com/chris_jpm) • [LinkedIn](https://linkedin.com/in/chris-jpm) • [Email](mailto:chrispercevalmaxwell@gmail.com)
+[Twitter](https://twitter.com/chris_jpm) • [Discord](https://discordapp.com/users/193460910486978560) • [LinkedIn](https://linkedin.com/in/chris-jpm) • [Email](mailto:chrispercevalmaxwell@gmail.com)
 
 <!-- :floppy_disk: **Download my CV <a href="https://tinyurl.com/ChrisPMCV">here</a>!** -->
 <!-- <p align="center">
