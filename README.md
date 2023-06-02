@@ -13,8 +13,6 @@ Contributor to the **[Holbert Proof Assistant](https://github.com/liamoc/holbert
     &nbsp;&nbsp;&nbsp;&nbsp;• View my working repo <a href="https://github.com/chrisjpm/holbert">here</a>
     <br>
     &nbsp;&nbsp;&nbsp;&nbsp;• Read the report <a href="https://github.com/chrisjpm/holbert/blob/master/report.pdf">here</a></li>
-    <br>
-    &nbsp;&nbsp;&nbsp;&nbsp;• Grade awarded: 76% :tada:
   </p>
 </details>
 
@@ -24,8 +22,6 @@ Contributor to the **[Holbert Proof Assistant](https://github.com/liamoc/holbert
   </summary>
   <p>
     &nbsp;&nbsp;&nbsp;&nbsp;• View my working repo <a href="https://github.com/chrisjpm/swimming-relay-order-calculator">here</a>
-    <br>
-    &nbsp;&nbsp;&nbsp;&nbsp;• Grade awarded: 100% :tada:
   </p>
 </details>
 
