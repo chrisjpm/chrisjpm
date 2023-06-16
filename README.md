@@ -1,8 +1,8 @@
 ### Hey there 👋
 
-I'm Chris (he/him) - I'm an eHealth Developer at NHS Lothian and have recently graduated from Edinburgh Uni with a First Class Honours in Artificial Intelligence and Computer Science.
+I'm Chris (he/him); I'm eHealth Developer at NHS Lothian and I graduated from Edinburgh Uni with a First Class Honours in Artificial Intelligence and Computer Science, in 2022.
 
-Contributor to the **[Holbert Proof Assistant](https://github.com/liamoc/holbert)** ([Demo](http://liamoc.net/holbert/)) - responsible for the implementation for applying rules by elimination, proofs by induction and proofs by cases.
+Contributor to the **[Holbert Proof Assistant](https://github.com/liamoc/holbert)** ([Demo](http://liamoc.net/holbert/)); I was responsible for the implementation of applying rules by elimination, proofs by induction and proofs by cases.
 
 #### 📌 Notable Projects
 <details open>
@@ -10,9 +10,9 @@ Contributor to the **[Holbert Proof Assistant](https://github.com/liamoc/holbert
     <i>Mechanising Applying Rules by Eliminaion, Proofs by Induction and Proofs by Cases in the Holbert PA (Honours Project)</i>
   </summary>
   <p>
-    &nbsp;&nbsp;&nbsp;&nbsp;• View my working repo <a href="https://github.com/chrisjpm/holbert">here</a>
+    &nbsp;&nbsp;&nbsp;&nbsp;• <a href="https://github.com/chrisjpm/holbert">Repo</a>
     <br>
-    &nbsp;&nbsp;&nbsp;&nbsp;• Read the report <a href="https://github.com/chrisjpm/holbert/blob/master/report.pdf">here</a></li>
+    &nbsp;&nbsp;&nbsp;&nbsp;• <a href="https://github.com/chrisjpm/holbert/blob/master/report.pdf">Dissertation</a></li>
   </p>
 </details>
 
@@ -21,7 +21,7 @@ Contributor to the **[Holbert Proof Assistant](https://github.com/liamoc/holbert
     <i>Swimming Relay Order Calculator (Adv. Higher CS Assignment)</i>
   </summary>
   <p>
-    &nbsp;&nbsp;&nbsp;&nbsp;• View my working repo <a href="https://github.com/chrisjpm/swimming-relay-order-calculator">here</a>
+    &nbsp;&nbsp;&nbsp;&nbsp;• <a href="https://github.com/chrisjpm/swimming-relay-order-calculator">Repo</a>
   </p>
 </details>
 
