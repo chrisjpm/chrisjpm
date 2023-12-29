@@ -1,6 +1,6 @@
 ### Hey there 👋
 
-I'm Chris - an eHealth Software Developer at NHS Lothian, and a Edinburgh Uni graduate with First Class Honours in Artificial Intelligence and Computer Science.
+I'm Chris - an eHealth Software Developer at NHS Lothian, and an Edinburgh Uni graduate in Artificial Intelligence and Computer Science.
 
 #### 📌 Notable Projects
 <details open>
