@@ -31,7 +31,7 @@ I'm Chris - an eHealth Software Developer at NHS Lothian, and an Edinburgh Uni g
 
 #### 💬 Contact Me
 
-[Twitter](https://twitter.com/chris_jpm) • [Discord](https://discordapp.com/users/193460910486978560) • [LinkedIn](https://linkedin.com/in/chris-jpm) • [Email](mailto:chrispercevalmaxwell@gmail.com)
+[Discord](https://discordapp.com/users/193460910486978560) • [LinkedIn](https://linkedin.com/in/chris-jpm) • [Email](mailto:chrispercevalmaxwell@gmail.com)
 
 <p align="center">
   <img height="75" wdith="75" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/35771931234507.564a1d2403b3a.gif">
